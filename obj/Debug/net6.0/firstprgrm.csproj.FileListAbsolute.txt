@@ -1,0 +1,15 @@
+C:\Users\chattopd\firstprgrm\bin\Debug\net6.0\firstprgrm.exe
+C:\Users\chattopd\firstprgrm\bin\Debug\net6.0\firstprgrm.deps.json
+C:\Users\chattopd\firstprgrm\bin\Debug\net6.0\firstprgrm.runtimeconfig.json
+C:\Users\chattopd\firstprgrm\bin\Debug\net6.0\firstprgrm.dll
+C:\Users\chattopd\firstprgrm\bin\Debug\net6.0\firstprgrm.pdb
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\firstprgrm.csproj.AssemblyReference.cache
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\firstprgrm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\firstprgrm.AssemblyInfoInputs.cache
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\firstprgrm.AssemblyInfo.cs
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\firstprgrm.csproj.CoreCompileInputs.cache
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\firstprgrm.dll
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\refint\firstprgrm.dll
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\firstprgrm.pdb
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\firstprgrm.genruntimeconfig.cache
+C:\Users\chattopd\firstprgrm\obj\Debug\net6.0\ref\firstprgrm.dll
