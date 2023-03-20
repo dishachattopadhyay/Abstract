@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RtMDOziiz65jI64WykhF/QnL9epucvCZKKtSKtzO6H8Iug79gZ1u8+wgrGlXHHq1H2VUsF1WPv2lA7SQXFRt8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chattopd\\firstprgrm\\Api2\\PracticeApi\\PracticeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chattopd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\chattopd\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chattopd\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\chattopd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\chattopd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\chattopd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

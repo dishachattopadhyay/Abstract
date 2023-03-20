@@ -5,16 +5,7 @@ using System.Threading.Tasks;
 
 namespace firstprgrm
 {
-    class Abstruct
-    {
-        static void Main(string[] args)
-        {
-            Dog d = new Dog();
-
-            d.sound();
-            d.Tail();
-        }
-    }
+   
     abstract class Animal
     {
         public abstract void sound(); // abs method doesn't contain a body

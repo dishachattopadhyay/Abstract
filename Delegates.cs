@@ -3,6 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+//Delegate:
+// 1. Object that refers to a method
+// 2. Reference type
+// 3. Can encapsulate one or more methods
+// 4. Allows methods to be passed as parameter
+// 5. Immutable in nature
+// 6. delegates are derived from System.MulticastDelegate class which is inheriting from System.Delegate
+
 namespace firstprgrm
 {
 

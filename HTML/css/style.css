@@ -1,0 +1,34 @@
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 0;
+  overflow:hidden;
+  background-color: #96a5d6;
+  width: 2000px;
+  border-radius: 5% ;
+  
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration:solid;
+  padding: 14px 18px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+  body {
+    background-image: url("../image/home2.jfif");
+    height: 200; width: 300;
+  }
+  
+  

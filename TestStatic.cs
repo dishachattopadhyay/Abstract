@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+// Static:
+// 1. cannot be instantiated
+// 2. We can only have public modifier
+// 3. Can have static constructor but cannot have modifier for constructor
+// 4. Static class is sealed by default so it can't be inherited
 namespace firstprgrm
 {
 
@@ -22,7 +27,7 @@ namespace firstprgrm
     }
 
 
-   public class TestClass
+   public class TestClass1
    {
      public static void Main()
     {

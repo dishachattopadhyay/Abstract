@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>firstprgrm.TestOverload</StartupObject>
+    <StartupObject>firstprgrm.Stack_Queue</StartupObject>
   </PropertyGroup>
 
 </Project>

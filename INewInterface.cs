@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+// Interface:
+// 1. In C# 8.0 we can have concrete method inside Interface
+// 2. Security: Hide some feature or information
+// 3. Multiple inheritence
 namespace firstprgrm
 {
 

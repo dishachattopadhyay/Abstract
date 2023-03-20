@@ -1,0 +1,352 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+/*
+This is for home page
+*/
+
+header {
+    /* background-image:linear-gradient(rgba(226, 202, 202, 0.5),rgba(71, 63, 63, 0.5)), url(../image/home.webp);
+    height: 100vh;
+    background-size: cover;
+    background-position: center; */
+}
+
+/*
+This is for navigation
+*/
+ul {
+    float: left;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li {
+    display: inline-block
+}
+
+ul li a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+    transition: 0.6s ease;
+}
+
+ul li a:hover {
+    background-color: #fff;
+    color: #000;
+
+}
+
+ul li.active a {
+    background-color: #fff;
+    color: #000;
+
+}
+
+.logo img {
+    float: left;
+    width: 150px;
+    height: auto;
+    left: 80px;
+    margin-top: 20px;
+}
+
+/*
+This is for to show the website in center
+*/
+
+/* .main{
+    max-width: 1200px;
+    /* margin: auto; */
+/* margin-left: 40px;
+    right: 10px; */
+/* } */
+
+
+/*
+This is for title styling
+*/
+.title {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin: 30px 30px auto;
+    /* left : -200%; */
+    transform: translate(-50%, -50%);
+
+}
+
+.title h1 {
+    color: #fff;
+    font-size: 50px;
+    top: 70%;
+    left: 50%;
+
+}
+
+center h1 {
+    color: #000000;
+}
+
+.heading {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-style: oblique;
+    color: #fff;
+    font-weight: 400;
+    transform: translate(-50%, -50%);
+
+
+}
+
+.button {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.btn1 {
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+
+}
+
+.btn1:hover {
+    background-color: #fff;
+    color: #000;
+
+}
+
+#navbar{
+    display:flex;
+    align-items: center;
+    position: absolute;
+    top: 30px;
+    margin-right: 40px;
+    left: 65%;
+    height: 40px;
+
+}
+
+/* #navbar::before{
+    content: "";
+    background-color: rgb(47, 56, 56);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    opacity: 0.6;
+} */
+
+div.main {
+    width: 400px;
+    margin: auto auto 0px auto;
+    max-width: 1200px;
+    margin: auto; 
+     margin-right: 40px;
+    left: 50%;
+    
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+div.form {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 350px;
+    font-size: 18px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
+    color: #fff;
+    position: relative;
+    top: 60px;
+    right: 210%;
+
+    }
+
+form#register {
+    padding: 8px;
+}
+
+label {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+input#name {
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    outline: 0;
+    padding: 7px;
+    background-color: #fff;
+    box-shadow: inset 0.5px 0.5px 0.5px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+.btn  {
+    width: 200px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    border-color: rgba(255, 255, 255, 0.3);
+    text-align: center;
+    text-decoration: solid;
+    cursor: pointer;
+    background-color: #000000;
+    width: 300px;
+    height: initial;
+    border-radius: 4px;
+    padding: 7px;
+    border: 1px solid #ddd;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    color: #fff;
+    transition: 0.6s ease;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #000;
+
+}
+
+
+
+#products {
+    /* top: 150px; */
+    margin: 34px;
+    margin-top: 400px;
+    /* position:absolute ; */
+    /*  */
+    /* box-sizing: border-box; */
+}
+
+.allproduct{
+    display:flex;
+    left: -10px;
+    position:relative;
+    margin-left: 0px;
+}
+
+#products .box {
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 3px 6px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    width: 500px;
+    position: relative;
+    margin-left: 0%;
+    /* left: -30px;
+    right: 50px; */
+}
+
+#products .box img {
+    height: 160px;
+    margin: auto;
+    display: block;
+}
+
+#products .box p {
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+#home-up{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/image/home.webp") no-repeat center center/cover;
+    height:500px;
+    top:0px;
+    width: 100%;
+    content: "";
+    z-index: -1;
+    display:block;
+    position: absolute;
+    /* opacity:0.7; */
+
+}
+
+#footPhoto img{
+    height: 200px;
+    width: 500px;
+    bottom: 0px;
+
+}
+
+.back-image{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/image/home.webp") no-repeat center center/cover;
+}
+.Book-App{
+    height: 100px;
+    display: grid;
+    place-items: center;
+    
+}
+
+.table{
+    margin-top: 200PX;
+    width: 600px;
+    box-shadow: -1px 12px 12px -6px rgba(0,0,0,0.5);
+
+}
+
+table,td,th{
+    padding: 30px;
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    text-align: center;
+
+    cursor: pointer;
+}
+
+td{
+    font-size: 18px;
+}
+
+th{
+    background-color: blue;
+    color: white;
+    
+}
+
+tr:nth-child(odd){
+    background-color: lightblue;
+}
+
+tr:nth-child(odd):hover{
+    background-color: doggerblue;
+    color: white;
+    transform: scale(1.5);
+    transition: transform 300ms ease-in;
+}
+
+tr:nth-child(even){
+    background-color: #ededed;
+}
+
+tr:nth-child(even):hover{
+    background-color: lightgrey;
+    transform: scale(1.5);
+    transition: transform 300ms ease-in;
+}
